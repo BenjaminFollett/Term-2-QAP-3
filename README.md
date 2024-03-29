@@ -1,1 +1,0 @@
-i found everything fine how ever for some reason i could not link my json data to my index or any of my scripts.js so what i did was just put them in the index and it seems to work from that way. i couldnt figure out how els to fix that issue.
